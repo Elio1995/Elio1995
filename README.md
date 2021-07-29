@@ -16,9 +16,8 @@
 - I love listening to music too. Helps me to focus 🎼
 
 ### How to reach me: 
-
-[<img align="left" alt="Telegram" width="22px" src="https://telegram.org/img/t_logo.png?1"/>](https://msng.link/o/?catli0912=tg) 
-[<img align="left" alt="LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.linkedin.com/in/catherine-lmy/)
-<a target="_blank" href="mailto:catherine.uk.20@gmail.com">
+[<img align="left" alt="LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.linkedin.com/in/elio-mehmeti-70a883217/)
+<a target="_blank" href="mailto:mehmetielio95@gmail.com">
   <img align="left" alt="Gmail" width="25px" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-icon-1.png" />
 </a>
+[<img align="left" alt="Instagram" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.instagram.com/eliomehmeti/)
