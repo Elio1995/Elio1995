@@ -1,7 +1,7 @@
 ## Hello from above our magnificent planet Earth 👋 😀 
 
 
-<img align="center" alt="Earth" width="300px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg">
+<img align="center" alt="Earth" width="350px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg">
 </br></br>
 
 ### About me:
