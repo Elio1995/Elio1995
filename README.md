@@ -1,5 +1,5 @@
 ### Hello from above our magnificent planet Earth 👋 😀
-<img align="left" alt="Telegram" width="22px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg"> 
+<img align="left" alt="Earth" width="100px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg"> 
 
 
 - 🔭 I’m currently working on ...
