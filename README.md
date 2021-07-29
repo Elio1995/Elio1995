@@ -3,9 +3,7 @@
 
 <img align="center" alt="Earth" width="350px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg">
 </br></br>
-
 ### About me:
-
 -I am Elio!
 
 - I’m currently a Full Stack Software Developer BootCamp Student (6 months full-time course) 👨‍💻
@@ -21,6 +19,7 @@
   <img align="left" alt="Gmail" width="25px" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-icon-1.png" />
 </a>
 [<img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>](https://www.instagram.com/eliomehmeti/)
+</br></br>
 
 ### Languages and Tools: 
 
