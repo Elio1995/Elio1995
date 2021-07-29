@@ -1,6 +1,6 @@
 ### Hello from above our magnificent planet Earth 👋 😀 
 
-[alt text](https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg)
+[alt image](https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg)
 
 <!-- <img align="left" alt="Earth" width="300px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg"> -->
 
