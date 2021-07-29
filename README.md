@@ -1,6 +1,6 @@
 ### Hello from above our magnificent planet Earth 👋 😀
-[<img align="left" alt="Telegram" width="22px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg") 
-Here are some ideas to get you started:
+[<img align="left" alt="Telegram" width="22px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg")] 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
