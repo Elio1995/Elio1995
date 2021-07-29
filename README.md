@@ -2,7 +2,7 @@
 
 
 <img align="center" alt="Earth" width="350px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg">
-</br></br>
+<!-- </br></br> -->
 
 ### About me:
 -I am Elio!
