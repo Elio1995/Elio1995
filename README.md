@@ -8,7 +8,6 @@
 -I am Elio!
 
 - I’m a Full Stack Software Developer 👨‍💻
-<!-- - I’m looking for Junior Software Engineer Position and I am available to beginn immediately 🤙 -->
 - Ask me about everything because I want to give and take knowledge 🤩
 - I find coding very fun and that's what I want to do in the future 😇
 - I love climbing mountains and swimming as well ⛰️ 🏖️
