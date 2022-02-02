@@ -4,7 +4,7 @@
 <img align="center" alt="Earth" width="350px" src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/339823601.jpg">
 <!-- </br></br> -->
 
-### About me:
+<!-- ### About me: -->
 <!-- -I am Elio!
 
 - I’m currently a Full Stack Software Developer BootCamp Student (6 months full-time course) 👨‍💻
