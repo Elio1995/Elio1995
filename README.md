@@ -5,14 +5,14 @@
 <!-- </br></br> -->
 
 <!-- ### About me: -->
-<!-- -I am Elio!
+-I am Elio!
 
-- I’m currently a Full Stack Software Developer BootCamp Student (6 months full-time course) 👨‍💻
-- I’m looking for Junior Software Engineer Position and I am available to beginn immediately 🤙
+- I’m a Full Stack Software Developer 👨‍💻
+<!-- - I’m looking for Junior Software Engineer Position and I am available to beginn immediately 🤙 -->
 - Ask me about everything because I want to give and take knowledge 🤩
 - I find coding very fun and that's what I want to do in the future 😇
 - I love climbing mountains and swimming as well ⛰️ 🏖️
-- I love listening to music too. Helps me to focus 🎼 -->
+- I love listening to music too. Helps me to focus 🎼
 
 ### How to reach me:  
 [<img align="left" alt="LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.linkedin.com/in/elio-mehmeti-70a883217/)
