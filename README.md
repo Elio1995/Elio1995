@@ -31,8 +31,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </br></br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png
-  (https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png)"></code>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elio1995&layout=compact)](https://github.com/Elio1995/github-readme-stats)
 
